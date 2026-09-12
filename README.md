@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏥 Toward Clinical-Ready Medical AI
-### A Survey of **Medical Foundation Models** & **Agent Systems** Toward Clinical Readiness
+# 🏥 Awesome Medical LLMs & Agents
+### Toward Clinical-Ready Medical AI — A Survey of Medical **LLMs · MLLMs** & **Agent Systems**
 
 <img src="assets/fig1.png" width="94%" alt="Overall organization of the survey"/>
 
