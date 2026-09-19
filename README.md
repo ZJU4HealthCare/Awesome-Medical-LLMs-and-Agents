@@ -648,3 +648,17 @@ The four quadrants form a **complementary design space, not a linear progression
 
 > The distance from research prototype to clinical deployment is defined **less by peak technical performance than by structural gaps** in evidence integrity, reasoning accountability, regulatory readiness, and stakeholder trust.
 
+---
+
+## 📚 Citation
+
+If you found this work useful, please consider giving this repository a star and citing our paper as follows:
+
+```bibtex
+@article{lin2026medical,
+  title={Medical AI in the Waiting Room: A Survey of Foundation Models and Agent Systems Toward Clinical Readiness},
+  author={Lin, Tianwei and Zhang, Wenqiao and Tan, Siwen and Yan, Wenjie and Xie, Yihan and Wei, Sitong and Zhou, Weilin and Hallinan, James Thomas Patrick Decourcy and Song, Xiaohui and Yu, Yibo and others},
+  year={2026},
+  publisher={Preprints}
+}
+```
