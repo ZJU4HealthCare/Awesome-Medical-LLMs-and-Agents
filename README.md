@@ -5,9 +5,9 @@
 
 [![Preprint](https://img.shields.io/badge/Preprint-Preprints.org-orange?logo=bookstack&logoColor=white)](https://www.preprints.org/manuscript/202609.1384)
 
-**Tianwei Lin**<sup>*</sup>, **Wenqiao Zhang**<sup>*†</sup>, **Siwen Tan**<sup>*</sup>, **Wenjie Yan**<sup>*</sup>, **Yihan Xie**<sup>*</sup>, **Sitong Wei**<sup>*</sup>, Weilin Zhou, James T. P. D. Hallinan, Xiaohui Song, Yibo Yu, Zhengwei Huang, Siliang Tang, Jun Xiao, Xiaogang Guo, Hui Lin, Yueting Zhuang, Ooi Beng Chin
+<p>Tianwei Lin<sup>&ast;</sup>, Wenqiao Zhang<sup>&ast;&dagger;</sup>, Siwen Tan<sup>&ast;</sup>, Wenjie Yan<sup>&ast;</sup>, Yihan Xie<sup>&ast;</sup>, Sitong Wei<sup>&ast;</sup>, Weilin Zhou, James T. P. D. Hallinan, Xiaohui Song, Yibo Yu, Zhengwei Huang, Siliang Tang, Jun Xiao, Xiaogang Guo, Hui Lin, Yueting Zhuang, Ooi Beng Chin</p>
 
-<sup>*</sup>Equal contribution &emsp; <sup>†</sup>Corresponding author
+<p><sup>&ast;</sup>Equal contribution &emsp; <sup>&dagger;</sup>Corresponding author</p>
 
 <img src="assets/fig1.png" width="94%" alt="Overall organization of the survey"/>
 
