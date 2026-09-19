@@ -3,6 +3,12 @@
 # 🏥 Awesome Medical LLMs & Agents
 ### Toward Clinical-Ready Medical AI — A Survey of Medical **LLMs · MLLMs** & **Agent Systems**
 
+[![Preprint](https://img.shields.io/badge/Preprint-Preprints.org-orange?logo=bookstack&logoColor=white)](https://www.preprints.org/manuscript/202609.1384)
+
+**Tianwei Lin**<sup>*</sup>, **Wenqiao Zhang**<sup>*†</sup>, **Siwen Tan**<sup>*</sup>, **Wenjie Yan**<sup>*</sup>, **Yihan Xie**<sup>*</sup>, **Sitong Wei**<sup>*</sup>, Weilin Zhou, James T. P. D. Hallinan, Xiaohui Song, Yibo Yu, Zhengwei Huang, Siliang Tang, Jun Xiao, Xiaogang Guo, Hui Lin, Yueting Zhuang, Ooi Beng Chin
+
+<sup>*</sup>Equal contribution &emsp; <sup>†</sup>Corresponding author
+
 <img src="assets/fig1.png" width="94%" alt="Overall organization of the survey"/>
 
 </div>
